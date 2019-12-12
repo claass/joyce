@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: black;    
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+  }
+
+.container {
+    width: 100%;
+    max-width: 500px;
+    padding: 2rem;   
+}
+
+h1 {
+    
+    text-align: center;
+}
+
+.outline {
+    border: 1px solid white;
+    outline-style: solid;
+    outline-color: white;
+    outline-width: thin;
+  }
+
+form {
+    padding: 1rem;
+}
